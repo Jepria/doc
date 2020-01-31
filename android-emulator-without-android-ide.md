@@ -7,39 +7,36 @@
 
 ## Прописываем переменные окружения
 Для удобства работы и корректного функционирования смежных программ прописываем в переменные окружения пути к SDK:
-> ANDROID_SDK = <Путь к развернутому SDK>
-> ANDROID_SDK_ROOT =  <Путь к развернутому SDK>
-> Добавляем в PATH 
->> <Путь к развернутому SDK>\tools\bin
->> <Путь к развернутому SDK>\tools
+- ANDROID_SDK = <Путь к развернутому SDK>
+- ANDROID_SDK_ROOT =  <Путь к развернутому SDK>
+- Добавляем в PATH <Путь к развернутому SDK>\tools\bin;<Путь к развернутому SDK>\tools
 
 ## Устанавливаем необходимые приложения для SDK
-> Устанавливаем компоненты для графической системы 
+- Устанавливаем компоненты для графической системы 
 ```
 sdkmanager "extras;google;Android_Emulator_Hypervisor_Driver" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
-sdkmanager "extras;android;m2repository" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128  _port=3128port=3128
+sdkmanager "extras;android;m2repository" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
 ```
 
-> Устанавливаем утилиты для работы с платформой и сборки
+- Устанавливаем утилиты для работы с платформой и сборки
 ```
-sdkmanager "platform-tools" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3
-sdkmanager "build-tools;29.0.2" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128           _port=3128port=3128
+sdkmanager "platform-tools" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
+sdkmanager "build-tools;29.0.2" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
 ```
-> Устанавливаем эмулятор
+- Устанавливаем эмулятор
 ```
 sdkmanager "emulator" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
 ```
 
-> Устанавливаем платформу и образ android 10
+- Устанавливаем платформу и образ android 10
 ```
-sdkmanager "platforms;android-29" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128         _port=3128port=3128
-sdkmanager "system-images;android-29;default;x86_64" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128port=3128
+sdkmanager "platforms;android-29" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
+sdkmanager "system-images;android-29;default;x86_64" --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
 ```
 
 Для того, чтобы посмотреть список всех пакетов с описаниями можно выполнить:
 ```
 sdkmanager --list  --no_https --proxy=http --proxy_host=127.0.0.1 --proxy_port=3128
--proxy_port=3128
 ```
 
 *Как не трудно было заметить, в примере установка происходит через прокси. Если сеть не требует прокси, то параметры прокси можно опустить.*
