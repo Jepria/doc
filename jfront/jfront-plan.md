@@ -56,7 +56,7 @@
 
 Должны поддерживать все классы frontend-решений (см. выше, как минимум, по одному эталонному приложению на класс).
 
-JFront-стартеры создаются в иерархии и по правилам проекта [*SoftSpiders*](https://github.com/softspiders/softspiders)
+Стартеры создаются в иерархии и по правилам проекта [*SoftSpiders*](https://github.com/softspiders/softspiders)
 
 ---
 
