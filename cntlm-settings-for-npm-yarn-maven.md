@@ -11,9 +11,9 @@
 вашей учетной записи.
 
 ```
-Username	YOUR_USERNAME
-Domain		YOUR_DOMAIN
-Proxy		YOUR_PROXY_IP:PORT
+Username	PetrovKM
+Domain		rusbalance.ru
+Proxy		cmsktng.rusbalance.ru:8080
 NoProxy		localhost, 127.0.0.*, 10.*, 192.168.*
 Listen		53128
 ```
@@ -21,7 +21,7 @@ Listen		53128
 3.Открыть консоль, и выполнить следующие команды для генерации хэша пароля:
 
 ```
-> cd c:\the_install_directory_of_cntlm
+> cd C:\Program Files (x86)\Cntlm
 > cntlm -H
 Password: введите пароль учетной записи
 PassLM          D6888AC8AE0EEE294D954420463215AE
