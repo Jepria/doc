@@ -16,7 +16,7 @@ To work with [cntlm](https://github.com/Jepria/doc/blob/master/cntlm-settings-fo
 ## Developer tools
 
 The most popular code editor for JavaScript - [VS Code](https://code.visualstudio.com/).
-Also maybe be good for you [intellij idea ultimate](https://www.jetbrains.com/ru-ru/idea/download).
+Also may be good for you [intellij idea ultimate](https://www.jetbrains.com/ru-ru/idea/download).
 
 VS Code common plugins for JavaScript Developers:
 
