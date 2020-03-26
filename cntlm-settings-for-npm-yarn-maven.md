@@ -13,7 +13,7 @@
 ```
 Username	USER_NAME          # PetrovKM 
 Domain		DOMAIN_NAME        # rusbalance.ru - "rusbalance" для ПРИМЕРА!!!
-Proxy		PROXY_HOST:PORT    # cmsktmg.rusbalance.ru:8080 - "rusbalance" для ПРИМЕРА!!!
+Proxy		PROXY_HOST:PORT    # smsktmg.rusbalance.ru:8080 - "rusbalance" для ПРИМЕРА!!!
 NoProxy		localhost, 127.0.0.*, 10.*, 192.168.*
 Listen		53128
 ```
