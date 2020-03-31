@@ -23,6 +23,8 @@
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 Для отладки React приложений есть плагин для Chrome [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi).
 
@@ -47,3 +49,4 @@ npm start
 - [Style Guide от Airbnb](https://github.com/airbnb/javascript)
 - [How to learn React.js](https://www.robinwieruch.de/learn-react-j) - также у [автора](https://www.robinwieruch.de/) много других статей.
 - [Хороший ресурс по HTML и CSS](http://htmlbook.ru/)
+- [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian)
