@@ -23,6 +23,8 @@ VS Code common plugins for JavaScript Developers:
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 To debug React application in Chrome install [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) extention.
 
@@ -47,3 +49,4 @@ Good online book https://javascript.info/
 - [Style Guide от Airbnb](https://github.com/airbnb/javascript)
 - [How to learn React.js](https://www.robinwieruch.de/learn-react-j) - also see more from [robinwieruch](https://www.robinwieruch.de/).
 - [Хороший ресурс по HTML и CSS](http://htmlbook.ru/)
+- [The Road to React](https://leanpub.com/the-road-to-learn-react)
