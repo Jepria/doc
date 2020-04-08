@@ -199,3 +199,9 @@ Clean Architecture](https://habr.com/ru/company/mobileup/blog/335382/).
 2. [Mihaly Nagy - Thoughts on Clean Architecture](https://android.jlelse.eu/thoughts-on-clean-architecture-b8449d9d02df)
 3. [Заблуждения Clean Architecture](https://habr.com/ru/company/mobileup/blog/335382/)
 4. [Чистая архитектура. Искусство разработки программного обеспечения](https://www.litres.ru/robert-s-martin/chistaya-arhitektura-iskusstvo-razrabotki-program-39113892/)
+
+---
+
+## Карта боевых действий (обновляется):
+
+![jfront-plan](https://raw.githubusercontent.com/Jepria/doc/master/jfront/images/jfront-plan.svg?sanitize=true) 
