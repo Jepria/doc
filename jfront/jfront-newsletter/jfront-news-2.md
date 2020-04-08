@@ -202,6 +202,6 @@ Clean Architecture](https://habr.com/ru/company/mobileup/blog/335382/).
 
 ---
 
-## Карта боевых действий (обновляется):
+# Карта боевых действий (обновляется):
 
 ![jfront-plan](https://raw.githubusercontent.com/Jepria/doc/master/jfront/images/jfront-plan.svg?sanitize=true) 
