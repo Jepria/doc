@@ -193,7 +193,7 @@ Clean Architecture](https://habr.com/ru/company/mobileup/blog/335382/).
 
 **Правило зависимостей обеспечивает живучесть системы в целом** - её устойчивость к изменениям в долгосрочном периоде.
 
-# Используемые материалы
+## Используемые материалы
 
 1. [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 2. [Mihaly Nagy - Thoughts on Clean Architecture](https://android.jlelse.eu/thoughts-on-clean-architecture-b8449d9d02df)
