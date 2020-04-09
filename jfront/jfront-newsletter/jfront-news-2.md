@@ -6,7 +6,7 @@
 
 # Новости с *JFront*-а (выпуск 2)
 
-##### Предыдущие выпуски
+#### Предыдущие выпуски
 [Выпуск 1](https://github.com/Jepria/doc/blob/master/jfront/jfront-newsletter/jfront-news-1.md)
 
 ## Введение в Чистую Архитектуру
