@@ -113,7 +113,13 @@
 он же и является, и которые он последовательно раскрывает в своей теперь уже [знаменитой
 книге](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164).
 
-![](images/Bob%20Martin.jpg)
+<p align="center">
+  <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">
+    <img src="images/Bob%20Martin.jpg" alt="drawing" width="600"/>
+  </a>
+  </br>
+  <b>Роберт Мартин</b>
+</p>
 
 ### Язык *Чистой Архитектуры*
 *Чистая архитектура* имеет свой язык и свою терминологию. Не потому, что она оперирует какими-то совершенно новыми
