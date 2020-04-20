@@ -47,5 +47,5 @@
       <activeProfile>binhome</activeProfile>
     </activeProfiles>
     ```
-Пример готового конфигурационного файла settings.xml: [maven-settings.xml]()
+Пример готового конфигурационного файла settings.xml: [maven-settings.xml](maven-settings.xml)
 
