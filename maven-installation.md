@@ -9,7 +9,7 @@
         <mirror>
           <id>nexus-mirror</id>
           <mirrorOf>central</mirrorOf>
-          <url><путь до репозитория Nexus></url>
+          <url>путь://до/репозитория/Nexus</url>
         </mirror>
         ```
     - [Установить и настроить](https://github.com/Jepria/doc/blob/master/cntlm-settings-for-npm-yarn-maven.md) локальный прокси сервер CNTLM, который позволит Maven корректно подключиться к центральному репозиторию через сетевой прокси сервер.
