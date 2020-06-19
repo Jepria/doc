@@ -233,7 +233,8 @@ under the License.
     -->
 
     <profile>
-
+      <id>binhome</id>
+      
       <repositories>
         <repository>
           <id>binhome-local-deploy</id>
@@ -254,8 +255,33 @@ under the License.
           <url>file:${BIN_HOME}\build</url>
         </pluginRepository>
       </pluginRepositories>
-
-      <id>binhome</id>
+      
+    </profile>
+    
+    <profile>
+      <id>github</id>
+      
+      <repositories>
+        <repository>
+          <id>github-local-deploy</id>
+          <name>github-local-deploy-repo</name>
+          <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/deploy</url>
+        </repository>
+        <repository>
+          <id>github-local-build</id>
+          <name>github-local-build-repo</name>
+          <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/build</url>
+        </repository>
+      </repositories>
+      
+      <pluginRepositories>
+        <pluginRepository>
+          <id>github-maven-plugins</id>
+          <name>local-maven-plugins-repo</name>
+          <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/build</url>
+        </pluginRepository>
+      </pluginRepositories>
+      
     </profile>
 
     <!--profile>
@@ -315,6 +341,7 @@ under the License.
 
   <activeProfiles>
     <activeProfile>binhome</activeProfile>
+    <!-- <activeProfile>github</activeProfile> -->
   </activeProfiles>	
   
   <!-- activeProfiles
