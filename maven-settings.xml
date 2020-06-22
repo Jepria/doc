@@ -263,13 +263,13 @@ under the License.
       
       <repositories>
         <repository>
-          <id>github-local-deploy</id>
-          <name>github-local-deploy-repo</name>
+          <id>github-deploy</id>
+          <name>github-deploy-repo</name>
           <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/deploy</url>
         </repository>
         <repository>
-          <id>github-local-build</id>
-          <name>github-local-build-repo</name>
+          <id>github-build</id>
+          <name>github-build-repo</name>
           <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/build</url>
         </repository>
       </repositories>
