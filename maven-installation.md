@@ -33,9 +33,14 @@
       </repositories>
       <pluginRepositories>
         <pluginRepository>
-          <id>local-maven-plugins</id>
-          <name>local-maven-plugins-repo</name>
+          <id>local-build-maven-plugins</id>
+          <name>local-build-maven-plugins-repo</name>
           <url>file:${BIN_HOME}\build</url>
+        </pluginRepository>
+        <pluginRepository>
+          <id>local-deploy-maven-plugins</id>
+          <name>local-deploy-maven-plugins-repo</name>
+          <url>file:${BIN_HOME}\deploy</url>
         </pluginRepository>
       </pluginRepositories>
       <id>binhome</id>
