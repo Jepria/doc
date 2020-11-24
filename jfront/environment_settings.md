@@ -47,6 +47,6 @@ npm start
 ## Ещё полезное:
 
 - [Style Guide от Airbnb](https://github.com/airbnb/javascript)
-- [How to learn React.js](https://www.robinwieruch.de/learn-react-j) - также у [автора](https://www.robinwieruch.de/) много других статей.
+- [How to learn React.js](https://www.robinwieruch.de/learn-react-js) - также у [автора](https://www.robinwieruch.de/) много других статей.
 - [Хороший ресурс по HTML и CSS](http://htmlbook.ru/)
 - [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian)
