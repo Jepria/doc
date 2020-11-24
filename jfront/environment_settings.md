@@ -1,7 +1,7 @@
 # Настройка окружения для JavaScript разработчиков
 
 Для работы с JavaScript разработчикам необходимо установить [Node.js](https://nodejs.org).
-Также рекомендую установить [yarn](https://yarnpkg.com/).
+Также рекомендую установить [yarn](https://yarnpkg.com/en/docs/install).
 
 ## Настройка для работы из внутренней сети
 
