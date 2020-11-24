@@ -5,7 +5,7 @@
 
 ## Настройка для работы из внутренней сети
 
-Для корректной работы из внутренней сети необходимо в файле C:\Users\{userName}\.npmrc прописать следующие настройки для работы через [cntlm](https://github.com/Jepria/doc/blob/master/cntlm-settings-for-npm-yarn-maven.md):
+Для корректной работы из внутренней сети необходимо в файле `C:\Users\Ivanov\.npmrc` (создать при необходимости) прописать следующие настройки для работы через [cntlm](https://github.com/Jepria/doc/blob/master/cntlm-settings-for-npm-yarn-maven.md):
 
 ```
    proxy=http://localhost:53128/
