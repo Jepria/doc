@@ -166,7 +166,7 @@ under the License.
     </mirror>
      -->
 
-	<!--mirror>
+    <!--mirror>
       <id>nexus</id>
       <mirrorOf>central</mirrorOf>
       <url>http://10.190.13.78:8081/nexus/content/repositories/maven-proxy/</url>
@@ -177,7 +177,7 @@ under the License.
       <mirrorOf>central</mirrorOf>
       <url>путь до корпоративного репозитория Nexus</url>
     </mirror-->
-	
+
   </mirrors>
 
   <!-- profiles
