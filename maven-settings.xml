@@ -166,7 +166,7 @@ under the License.
     </mirror>
      -->
 
-	<!--mirror>
+    <!--mirror>
       <id>nexus</id>
       <mirrorOf>central</mirrorOf>
       <url>http://10.190.13.78:8081/nexus/content/repositories/maven-proxy/</url>
@@ -177,7 +177,7 @@ under the License.
       <mirrorOf>central</mirrorOf>
       <url>путь до корпоративного репозитория Nexus</url>
     </mirror-->
-	
+
   </mirrors>
 
   <!-- profiles
@@ -250,13 +250,13 @@ under the License.
 
       <pluginRepositories>
         <pluginRepository>
-          <id>local-deploy-maven-plugins</id>
-          <name>local-deploy-maven-plugins-repo</name>
+          <id>local-maven-plugins-deploy</id>
+          <name>local-maven-plugins-deploy-repo</name>
           <url>file:${BIN_HOME}\deploy</url>
         </pluginRepository>
         <pluginRepository>
-          <id>local-build-maven-plugins</id>
-          <name>local-build-maven-plugins-repo</name>
+          <id>local-maven-plugins-build</id>
+          <name>local-maven-plugins-build-repo</name>
           <url>file:${BIN_HOME}\build</url>
         </pluginRepository>
       </pluginRepositories>
@@ -281,13 +281,13 @@ under the License.
       
       <pluginRepositories>
         <pluginRepository>
-          <id>github-deploy-maven-plugins</id>
-          <name>github-deploy-maven-plugins-repo</name>
+          <id>github-maven-plugins-deploy</id>
+          <name>github-maven-plugins-deploy-repo</name>
           <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/deploy</url>
         </pluginRepository>
         <pluginRepository>
-          <id>github-build-maven-plugins</id>
-          <name>github-build-maven-plugins-repo</name>
+          <id>github-maven-plugins-build</id>
+          <name>github-maven-plugins-build-repo</name>
           <url>https://raw.githubusercontent.com/Jepria/bin-repo/master/build</url>
         </pluginRepository>
       </pluginRepositories>
