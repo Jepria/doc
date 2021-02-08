@@ -11,7 +11,7 @@
     
     Пример расположения: 
     
-    `C:\work\bin-ext\build\org\jepria\tools\generator\generator-cli\1.0.0-SNAPSHOT\generator-cli-1.0.0-SNAPSHOT.jar`
+    `C:\work\bin-ext\build\org\jepria\tools\generator\generator-cli\1.1.0-SNAPSHOT\generator-cli-1.1.0-SNAPSHOT.jar`
     
     Пример запуска команды: 
     
